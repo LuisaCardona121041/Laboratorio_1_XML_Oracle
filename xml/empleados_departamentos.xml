@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado id="100">
+        <nombre>Steven</nombre>
+        <apellido>King</apellido>
+        <correo>SKING</correo>
+        <salario>24000</salario>
+        <departamento id="90">Executive</departamento>
+    </empleado>
+    <empleado id="101">
+        <nombre>Neena</nombre>
+        <apellido>Kochhar</apellido>
+        <correo>NKOCHHAR</correo>
+        <salario>17000</salario>
+        <departamento id="90">Executive</departamento>
+    </empleado>
+    <empleado id="102">
+        <nombre>Lex</nombre>
+        <apellido>De Haan</apellido>
+        <correo>LDEHAAN</correo>
+        <salario>17000</salario>
+        <departamento id="90">Executive</departamento>
+    </empleado>
+    <empleado id="103">
+        <nombre>Alexander</nombre>
+        <apellido>Hunold</apellido>
+        <correo>AHUNOLD</correo>
+        <salario>9000</salario>
+        <departamento id="60">IT</departamento>
+    </empleado>
+    <empleado id="104">
+        <nombre>Bruce</nombre>
+        <apellido>Ernst</apellido>
+        <correo>BERNST</correo>
+        <salario>6000</salario>
+        <departamento id="60">IT</departamento>
+    </empleado>
+    <empleado id="105">
+        <nombre>David</nombre>
+        <apellido>Austin</apellido>
+        <correo>DAUSTIN</correo>
+        <salario>4800</salario>
+        <departamento id="60">IT</departamento>
+    </empleado>
+    <empleado id="106">
+        <nombre>Valli</nombre>
+        <apellido>Pataballa</apellido>
+        <correo>VPATABAL</correo>
+        <salario>4800</salario>
+        <departamento id="60">IT</departamento>
+    </empleado>
+    <empleado id="107">
+        <nombre>Diana</nombre>
+        <apellido>Lorentz</apellido>
+        <correo>DLORENTZ</correo>
+        <salario>4200</salario>
+        <departamento id="60">IT</departamento>
+    </empleado>
+    <empleado id="108">
+        <nombre>Nancy</nombre>
+        <apellido>Greenberg</apellido>
+        <correo>NGREENBE</correo>
+        <salario>12008</salario>
+        <departamento id="100">Finance</departamento>
+    </empleado>
+    <empleado id="109">
+        <nombre>Daniel</nombre>
+        <apellido>Faviet</apellido>
+        <correo>DFAVIET</correo>
+        <salario>9000</salario>
+        <departamento id="100">Finance</departamento>
+    </empleado>
+    <empleado id="110">
+        <nombre>John</nombre>
+        <apellido>Chen</apellido>
+        <correo>JCHEN</correo>
+        <salario>8200</salario>
+        <departamento id="100">Finance</departamento>
+    </empleado>
+    <empleado id="111">
+        <nombre>Ismael</nombre>
+        <apellido>Sciarra</apellido>
+        <correo>ISCIARRA</correo>
+        <salario>7700</salario>
+        <departamento id="100">Finance</departamento>
+    </empleado>
+    <empleado id="112">
+        <nombre>Jose Manuel</nombre>
+        <apellido>Urman</apellido>
+        <correo>JMURMAN</correo>
+        <salario>7800</salario>
+        <departamento id="100">Finance</departamento>
+    </empleado>
+    <empleado id="113">
+        <nombre>Luis</nombre>
+        <apellido>Popp</apellido>
+        <correo>LPOPP</correo>
+        <salario>6900</salario>
+        <departamento id="100">Finance</departamento>
+    </empleado>
+    <empleado id="114">
+        <nombre>Den</nombre>
+        <apellido>Raphaely</apellido>
+        <correo>DRAPHEAL</correo>
+        <salario>11000</salario>
+        <departamento id="30">Purchasing</departamento>
+    </empleado>
+    <empleado id="115">
+        <nombre>Alexander</nombre>
+        <apellido>Khoo</apellido>
+        <correo>AKHOO</correo>
+        <salario>3100</salario>
+        <departamento id="30">Purchasing</departamento>
+    </empleado>
+    <empleado id="116">
+        <nombre>Shelli</nombre>
+        <apellido>Baida</apellido>
+        <correo>SBAIDA</correo>
+        <salario>2900</salario>
+        <departamento id="30">Purchasing</departamento>
+    </empleado>
+    <empleado id="117">
+        <nombre>Sigal</nombre>
+        <apellido>Tobias</apellido>
+        <correo>STOBIAS</correo>
+        <salario>2800</salario>
+        <departamento id="30">Purchasing</departamento>
+    </empleado>
+    <empleado id="118">
+        <nombre>Guy</nombre>
+        <apellido>Himuro</apellido>
+        <correo>GHIMURO</correo>
+        <salario>2600</salario>
+        <departamento id="30">Purchasing</departamento>
+    </empleado>
+    <empleado id="119">
+        <nombre>Karen</nombre>
+        <apellido>Colmenares</apellido>
+        <correo>KCOLMENA</correo>
+        <salario>2500</salario>
+        <departamento id="30">Purchasing</departamento>
+    </empleado>
+    <empleado id="120">
+        <nombre>Matthew</nombre>
+        <apellido>Weiss</apellido>
+        <correo>MWEISS</correo>
+        <salario>8000</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="121">
+        <nombre>Adam</nombre>
+        <apellido>Fripp</apellido>
+        <correo>AFRIPP</correo>
+        <salario>8200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="122">
+        <nombre>Payam</nombre>
+        <apellido>Kaufling</apellido>
+        <correo>PKAUFLIN</correo>
+        <salario>7900</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="123">
+        <nombre>Shanta</nombre>
+        <apellido>Vollman</apellido>
+        <correo>SVOLLMAN</correo>
+        <salario>6500</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="124">
+        <nombre>Kevin</nombre>
+        <apellido>Mourgos</apellido>
+        <correo>KMOURGOS</correo>
+        <salario>5800</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="125">
+        <nombre>Julia</nombre>
+        <apellido>Nayer</apellido>
+        <correo>JNAYER</correo>
+        <salario>3200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="126">
+        <nombre>Irene</nombre>
+        <apellido>Mikkilineni</apellido>
+        <correo>IMIKKILI</correo>
+        <salario>2700</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="127">
+        <nombre>James</nombre>
+        <apellido>Landry</apellido>
+        <correo>JLANDRY</correo>
+        <salario>2400</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="128">
+        <nombre>Steven</nombre>
+        <apellido>Markle</apellido>
+        <correo>SMARKLE</correo>
+        <salario>2200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="129">
+        <nombre>Laura</nombre>
+        <apellido>Bissot</apellido>
+        <correo>LBISSOT</correo>
+        <salario>3300</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="130">
+        <nombre>Mozhe</nombre>
+        <apellido>Atkinson</apellido>
+        <correo>MATKINSO</correo>
+        <salario>2800</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="131">
+        <nombre>James</nombre>
+        <apellido>Marlow</apellido>
+        <correo>JAMRLOW</correo>
+        <salario>2500</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="132">
+        <nombre>TJ</nombre>
+        <apellido>Olson</apellido>
+        <correo>TJOLSON</correo>
+        <salario>2100</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="133">
+        <nombre>Jason</nombre>
+        <apellido>Mallin</apellido>
+        <correo>JMALLIN</correo>
+        <salario>3300</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="134">
+        <nombre>Michael</nombre>
+        <apellido>Rogers</apellido>
+        <correo>MROGERS</correo>
+        <salario>2900</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="135">
+        <nombre>Ki</nombre>
+        <apellido>Gee</apellido>
+        <correo>KGEE</correo>
+        <salario>2400</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="136">
+        <nombre>Hazel</nombre>
+        <apellido>Philtanker</apellido>
+        <correo>HPHILTAN</correo>
+        <salario>2200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="137">
+        <nombre>Renske</nombre>
+        <apellido>Ladwig</apellido>
+        <correo>RLADWIG</correo>
+        <salario>3600</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="138">
+        <nombre>Stephen</nombre>
+        <apellido>Stiles</apellido>
+        <correo>SSTILES</correo>
+        <salario>3200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="139">
+        <nombre>John</nombre>
+        <apellido>Seo</apellido>
+        <correo>JSEO</correo>
+        <salario>2700</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="140">
+        <nombre>Joshua</nombre>
+        <apellido>Patel</apellido>
+        <correo>JPATEL</correo>
+        <salario>2500</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="141">
+        <nombre>Trenna</nombre>
+        <apellido>Rajs</apellido>
+        <correo>TRAJS</correo>
+        <salario>3500</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="142">
+        <nombre>Curtis</nombre>
+        <apellido>Davies</apellido>
+        <correo>CDAVIES</correo>
+        <salario>3100</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="143">
+        <nombre>Randall</nombre>
+        <apellido>Matos</apellido>
+        <correo>RMATOS</correo>
+        <salario>2600</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="144">
+        <nombre>Peter</nombre>
+        <apellido>Vargas</apellido>
+        <correo>PVARGAS</correo>
+        <salario>2500</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="145">
+        <nombre>John</nombre>
+        <apellido>Russell</apellido>
+        <correo>JRUSSEL</correo>
+        <salario>14000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="146">
+        <nombre>Karen</nombre>
+        <apellido>Partners</apellido>
+        <correo>KPARTNER</correo>
+        <salario>13500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="147">
+        <nombre>Alberto</nombre>
+        <apellido>Errazuriz</apellido>
+        <correo>AERRAZUR</correo>
+        <salario>12000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="148">
+        <nombre>Gerald</nombre>
+        <apellido>Cambrault</apellido>
+        <correo>GCAMBRAU</correo>
+        <salario>11000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="149">
+        <nombre>Eleni</nombre>
+        <apellido>Zlotkey</apellido>
+        <correo>EZLOTKEY</correo>
+        <salario>10500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="150">
+        <nombre>Peter</nombre>
+        <apellido>Tucker</apellido>
+        <correo>PTUCKER</correo>
+        <salario>10000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="151">
+        <nombre>David</nombre>
+        <apellido>Bernstein</apellido>
+        <correo>DBERNSTE</correo>
+        <salario>9500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="152">
+        <nombre>Peter</nombre>
+        <apellido>Hall</apellido>
+        <correo>PHALL</correo>
+        <salario>9000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="153">
+        <nombre>Christopher</nombre>
+        <apellido>Olsen</apellido>
+        <correo>COLSEN</correo>
+        <salario>8000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="154">
+        <nombre>Nanette</nombre>
+        <apellido>Cambrault</apellido>
+        <correo>NCAMBRAU</correo>
+        <salario>7500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="155">
+        <nombre>Oliver</nombre>
+        <apellido>Tuvault</apellido>
+        <correo>OTUVAULT</correo>
+        <salario>7000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="156">
+        <nombre>Janette</nombre>
+        <apellido>King</apellido>
+        <correo>JKING</correo>
+        <salario>10000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="157">
+        <nombre>Patrick</nombre>
+        <apellido>Sully</apellido>
+        <correo>PSULLY</correo>
+        <salario>9500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="158">
+        <nombre>Allan</nombre>
+        <apellido>McEwen</apellido>
+        <correo>AMCEWEN</correo>
+        <salario>9000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="159">
+        <nombre>Lindsey</nombre>
+        <apellido>Smith</apellido>
+        <correo>LSMITH</correo>
+        <salario>8000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="160">
+        <nombre>Louise</nombre>
+        <apellido>Doran</apellido>
+        <correo>LDORAN</correo>
+        <salario>7500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="161">
+        <nombre>Sarath</nombre>
+        <apellido>Sewall</apellido>
+        <correo>SSEWALL</correo>
+        <salario>7000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="162">
+        <nombre>Clara</nombre>
+        <apellido>Vishney</apellido>
+        <correo>CVISHNEY</correo>
+        <salario>10500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="163">
+        <nombre>Danielle</nombre>
+        <apellido>Greene</apellido>
+        <correo>DGREENE</correo>
+        <salario>9500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="164">
+        <nombre>Mattea</nombre>
+        <apellido>Marvins</apellido>
+        <correo>MMARVINS</correo>
+        <salario>7200</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="165">
+        <nombre>David</nombre>
+        <apellido>Lee</apellido>
+        <correo>DLEE</correo>
+        <salario>6800</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="166">
+        <nombre>Sundar</nombre>
+        <apellido>Ande</apellido>
+        <correo>SANDE</correo>
+        <salario>6400</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="167">
+        <nombre>Amit</nombre>
+        <apellido>Banda</apellido>
+        <correo>ABANDA</correo>
+        <salario>6200</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="168">
+        <nombre>Lisa</nombre>
+        <apellido>Ozer</apellido>
+        <correo>LOZER</correo>
+        <salario>11500</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="169">
+        <nombre>Harrison</nombre>
+        <apellido>Bloom</apellido>
+        <correo>HBLOOM</correo>
+        <salario>10000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="170">
+        <nombre>Tayler</nombre>
+        <apellido>Fox</apellido>
+        <correo>TFOX</correo>
+        <salario>9600</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="171">
+        <nombre>William</nombre>
+        <apellido>Smith</apellido>
+        <correo>WSMITH</correo>
+        <salario>7400</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="172">
+        <nombre>Elizabeth</nombre>
+        <apellido>Bates</apellido>
+        <correo>EBATES</correo>
+        <salario>7300</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="173">
+        <nombre>Sundita</nombre>
+        <apellido>Kumar</apellido>
+        <correo>SKUMAR</correo>
+        <salario>6100</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="174">
+        <nombre>Ellen</nombre>
+        <apellido>Abel</apellido>
+        <correo>EABEL</correo>
+        <salario>11000</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="175">
+        <nombre>Alyssa</nombre>
+        <apellido>Hutton</apellido>
+        <correo>AHUTTON</correo>
+        <salario>8800</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="176">
+        <nombre>Jonathon</nombre>
+        <apellido>Taylor</apellido>
+        <correo>JTAYLOR</correo>
+        <salario>8600</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="177">
+        <nombre>Jack</nombre>
+        <apellido>Livingston</apellido>
+        <correo>JLIVINGS</correo>
+        <salario>8400</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="179">
+        <nombre>Charles</nombre>
+        <apellido>Johnson</apellido>
+        <correo>CJOHNSON</correo>
+        <salario>6200</salario>
+        <departamento id="80">Sales</departamento>
+    </empleado>
+    <empleado id="180">
+        <nombre>Winston</nombre>
+        <apellido>Taylor</apellido>
+        <correo>WTAYLOR</correo>
+        <salario>3200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="181">
+        <nombre>Jean</nombre>
+        <apellido>Fleaur</apellido>
+        <correo>JFLEAUR</correo>
+        <salario>3100</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="182">
+        <nombre>Martha</nombre>
+        <apellido>Sullivan</apellido>
+        <correo>MSULLIVA</correo>
+        <salario>2500</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="183">
+        <nombre>Girard</nombre>
+        <apellido>Geoni</apellido>
+        <correo>GGEONI</correo>
+        <salario>2800</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="184">
+        <nombre>Nandita</nombre>
+        <apellido>Sarchand</apellido>
+        <correo>NSARCHAN</correo>
+        <salario>4200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="185">
+        <nombre>Alexis</nombre>
+        <apellido>Bull</apellido>
+        <correo>ABULL</correo>
+        <salario>4100</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="186">
+        <nombre>Julia</nombre>
+        <apellido>Dellinger</apellido>
+        <correo>JDELLING</correo>
+        <salario>3400</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="187">
+        <nombre>Anthony</nombre>
+        <apellido>Cabrio</apellido>
+        <correo>ACABRIO</correo>
+        <salario>3000</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="188">
+        <nombre>Kelly</nombre>
+        <apellido>Chung</apellido>
+        <correo>KCHUNG</correo>
+        <salario>3800</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="189">
+        <nombre>Jennifer</nombre>
+        <apellido>Dilly</apellido>
+        <correo>JDILLY</correo>
+        <salario>3600</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="190">
+        <nombre>Timothy</nombre>
+        <apellido>Gates</apellido>
+        <correo>TGATES</correo>
+        <salario>2900</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="191">
+        <nombre>Randall</nombre>
+        <apellido>Perkins</apellido>
+        <correo>RPERKINS</correo>
+        <salario>2500</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="192">
+        <nombre>Sarah</nombre>
+        <apellido>Bell</apellido>
+        <correo>SBELL</correo>
+        <salario>4000</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="193">
+        <nombre>Britney</nombre>
+        <apellido>Everett</apellido>
+        <correo>BEVERETT</correo>
+        <salario>3900</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="194">
+        <nombre>Samuel</nombre>
+        <apellido>McCain</apellido>
+        <correo>SMCCAIN</correo>
+        <salario>3200</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="195">
+        <nombre>Vance</nombre>
+        <apellido>Jones</apellido>
+        <correo>VJONES</correo>
+        <salario>2800</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="196">
+        <nombre>Alana</nombre>
+        <apellido>Walsh</apellido>
+        <correo>AWALSH</correo>
+        <salario>3100</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="197">
+        <nombre>Kevin</nombre>
+        <apellido>Feeney</apellido>
+        <correo>KFEENEY</correo>
+        <salario>3000</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="198">
+        <nombre>Donald</nombre>
+        <apellido>OConnell</apellido>
+        <correo>DOCONNEL</correo>
+        <salario>2600</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="199">
+        <nombre>Douglas</nombre>
+        <apellido>Grant</apellido>
+        <correo>DGRANT</correo>
+        <salario>2600</salario>
+        <departamento id="50">Shipping</departamento>
+    </empleado>
+    <empleado id="200">
+        <nombre>Jennifer</nombre>
+        <apellido>Whalen</apellido>
+        <correo>JWHALEN</correo>
+        <salario>4400</salario>
+        <departamento id="10">Administration</departamento>
+    </empleado>
+    <empleado id="201">
+        <nombre>Michael</nombre>
+        <apellido>Hartstein</apellido>
+        <correo>MHARTSTE</correo>
+        <salario>13000</salario>
+        <departamento id="20">Marketing</departamento>
+    </empleado>
+    <empleado id="202">
+        <nombre>Pat</nombre>
+        <apellido>Fay</apellido>
+        <correo>PFAY</correo>
+        <salario>6000</salario>
+        <departamento id="20">Marketing</departamento>
+    </empleado>
+    <empleado id="203">
+        <nombre>Susan</nombre>
+        <apellido>Mavris</apellido>
+        <correo>SMAVRIS</correo>
+        <salario>6500</salario>
+        <departamento id="40">Human Resources</departamento>
+    </empleado>
+    <empleado id="204">
+        <nombre>Hermann</nombre>
+        <apellido>Baer</apellido>
+        <correo>HBAER</correo>
+        <salario>10000</salario>
+        <departamento id="70">Public Relations</departamento>
+    </empleado>
+    <empleado id="205">
+        <nombre>Shelley</nombre>
+        <apellido>Higgins</apellido>
+        <correo>SHIGGINS</correo>
+        <salario>12008</salario>
+        <departamento id="110">Accounting</departamento>
+    </empleado>
+    <empleado id="206">
+        <nombre>William</nombre>
+        <apellido>Gietz</apellido>
+        <correo>WGIETZ</correo>
+        <salario>8300</salario>
+        <departamento id="110">Accounting</departamento>
+    </empleado>
+</empleados>
